@@ -1,0 +1,16 @@
+{
+    "pessoas":[
+        {
+        "id": 1,
+        "nome":"Robso",
+        "desc":"Manteiga, nata, mel, requeijão...",
+        "foto":"1"
+        },
+        {
+        "id": 2,
+        "nome":"Julia",
+        "desc":"Pão torrado, salame de vitela, ovos...",
+        "foto":"2"
+        }
+    ]
+}
