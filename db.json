@@ -1,22 +1,22 @@
 {
-  "pessoas": [
+  "ingresso": [
     {
       "id": 1,
-      "nome": "Robso",
-      "desc": "Manteiga, nata, mel, requeijão...",
-      "foto": "1"
+      "evento": "GUSTTAVO LIMA",
+      "desc": "SHOW DO GUSTTAVO LIMA",
+      "artista": "GUSTTAVO LIMA",
+      "valor": 189,
+      "local": "EXPOTRED",
+      "data": "25/01/2023"
     },
     {
       "id": 2,
-      "nome": "Julia",
-      "desc": "Pão torrado, salame de vitela, ovos...",
-      "foto": "2"
-    },
-    {
-      "id": 3,
-      "nome": "Hellen",
-      "desc": "Manteiga, nata, mel, requeijão...",
-      "foto": "3"
+      "evento": "BRUNO E MARRONE",
+      "desc": "SHOW DO BRUNO E MARRONE",
+      "artista": "BRUNO E MARRONE",
+      "valor": 200,
+      "local": "EXPOTRED",
+      "data": "26/01/2023"
     }
   ]
 }
