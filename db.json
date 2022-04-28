@@ -3,10 +3,11 @@
     {
       "id": 1,
       "evento": "GUSTTAVO LIMA",
-      "desc": "SHOW DO GUSTTAVO LIMA",
+      "desc": "SHOW DO GUSTTAVO LIMA alterado",
       "artista": "GUSTTAVO LIMA",
       "valor": 189,
       "local": "EXPOTRED",
+      "numero_ingressos": 10,
       "data": "25/01/2023"
     },
     {
@@ -16,7 +17,18 @@
       "artista": "BRUNO E MARRONE",
       "valor": 200,
       "local": "EXPOTRED",
+      "numero_ingressos": 100,
       "data": "26/01/2023"
+    },
+    {
+      "id": 3,
+      "evento": "Country Festival",
+      "desc": "",
+      "artista": "Vários",
+      "valor": 0,
+      "local": "Expotred Pinhais",
+      "numero_ingressos": 0,
+      "data": "Sem data"
     }
   ]
 }
