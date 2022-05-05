@@ -1,5 +1,5 @@
 {
-  "ingresso": [
+  "ingressos": [
     {
       "id": 1,
       "evento": "GUSTTAVO LIMA",
@@ -14,7 +14,7 @@
       "id": 2,
       "evento": "BRUNO E MARRONE",
       "desc": "SHOW DO BRUNO E MARRONE",
-      "artista": "BRUNO E MARRONE",
+      "artista": "BRUNO E MARRONE!",
       "valor": 200,
       "local": "EXPOTRED",
       "numero_ingressos": 100,
@@ -30,5 +30,14 @@
       "numero_ingressos": 0,
       "data": "Sem data"
     }
+  ],
+  "compras": [],
+  "logins": [
+    {
+      "id": 1,
+      "email": "hellen@email.com",
+      "senha": "123"
+    }
   ]
+
 }
